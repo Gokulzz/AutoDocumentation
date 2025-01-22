@@ -1,6 +1,12 @@
-AutoDocumentation API
-🚀 AutoDocumentation API is a .NET Core Web API that generates documentation (summary and line-by-line comments) for provided code using the OpenAI API. It leverages environment variables for secure configuration management.
+🚀 AutoDocumentation API
+AutoDocumentation API is a .NET Core test extension designed to simplify code documentation. By leveraging the OpenAI API, it generates clear summaries and detailed line-by-line comments for provided C# code, making it an invaluable tool for improving code clarity and maintainability.
 
-Features
-Code Documentation Generation: Automatically generates summaries and line-by-line comments for C# code.
+✨ Features
+Code Documentation Automation
 
+Automatically generates summaries for C# classes, methods, and properties.
+Provides line-by-line comments to explain code functionality.
+Streamlined Workflow
+
+Integrates seamlessly into your testing workflow.
+Improves code quality and readability without manual effort.
